@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/1154590897.svg)](https://doi.org/10.5281/zenodo.18600184) [![License](https://img.shields.io/badge/license-MIT-blue.svg)]
+[![DOI](https://zenodo.org/badge/1154590897.svg)](https://doi.org/10.5281/zenodo.18600184)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
 # 🌿 SAMGridAnnotations
