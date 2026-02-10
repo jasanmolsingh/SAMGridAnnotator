@@ -16,13 +16,25 @@ This repository helps you create **segmentation masks** for images using Meta AI
 
 Instead of manually drawing shapes around plants, soil, weeds, etc…
 
-✅ The AI suggests masks
+1️⃣ The program scans the image.
 
-✅ You click the best one
+<img width="1920" height="1080" alt="0GridCreation_GridPointActivation" src="https://github.com/user-attachments/assets/e1e71121-0f63-4663-a6ca-77a3680ecc49" />
 
-✅ Choose a class
+2️⃣ The AI suggests masks
 
-✅ Done!
+<img width="1920" height="1080" alt="1MaskSelection" src="https://github.com/user-attachments/assets/2e81e166-db7a-4d31-bbf3-ad63fe797895" />
+
+3️⃣ You click the best one and choose a class
+
+<img width="1920" height="1080" alt="2ClassSelection" src="https://github.com/user-attachments/assets/0006a00e-38e2-4a76-a333-dba83f0b9024" />
+
+4️⃣ Selected mask is saved. Continue!
+
+<img width="1920" height="1080" alt="3Selectedmask_Saved" src="https://github.com/user-attachments/assets/bc42e3b8-27c4-4bc0-8349-08f6114b6ffb" />
+
+
+5️⃣ Done! Final mask of the image saves after all gridpoints are complete. 
+
 
 This makes dataset creation MUCH faster.
 
