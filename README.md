@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/1154590897.svg)](https://doi.org/10.5281/zenodo.18600184)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)]
+
+
 # 🌿 SAMGridAnnotations
 
 **Interactive Image Annotation using Meta's Segment Anything Model (SAM)**
@@ -282,6 +286,21 @@ Install the GPU version of PyTorch:
 ## 🙌 Acknowledgement
 
 * KAMS Lab (https://bulent931.wixsite.com/bulent/kams-lab)
+
+---
+
+## 🔬 Reproducibility
+
+This repository is archived with Zenodo and assigned a DOI to ensure long-term reproducibility of the software.
+
+To reproduce results:
+
+1. Clone the repository
+2. Install dependencies from `requirements.txt`
+3. Download SAM weights
+4. Run the notebook
+
+For version-specific reproduction, use the archived release linked via DOI.
 
 ---
 
