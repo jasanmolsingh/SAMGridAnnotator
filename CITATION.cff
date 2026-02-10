@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors:
+author:
 - family-names: "Singh"
   given-names: "Jasanmol"
-  orcid: "[https://orcid.org/0000-0001-8893-7030](https://orcid.org/0000-0001-8893-7030)"
-  title: "SAMGridAnnotations"
-  version: 1.0.0
-  date-released: 2026-02-10
-  url: "[https://github.com/jasanmolsingh/SAMGridAnnotations](https://github.com/jasanmolsingh/SAMGridAnnotations)"
+  orcid: "https://orcid.org/0000-0001-8893-7030"
+title: "SAMGridAnnotations"
+version: 1.0.0
+date-released: 2026-02-10
+url: "https://github.com/jasanmolsingh/SAMGridAnnotations"
