@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
-# 🌿 SAMGridAnnotations
+# 🌿 SAMGridAnnotator
 
 **Interactive Image Annotation using Meta's Segment Anything Model (SAM)**
 
@@ -76,8 +76,8 @@ Install:
 ## 📥 Step 1 — Clone this Repository
 
 ```bash
-git clone https://github.com/jasanmolsingh/SAMGridAnnotations.git
-cd SAMGridAnnotations
+git clone https://github.com/jasanmolsingh/SAMGridAnnotator.git
+cd SAMGridAnnotator
 ```
 ---
 
@@ -88,15 +88,15 @@ Create a virtual environment (recommended):
 ### ✅ Windows
 
 ```bash
-python -m venv SAMGridAnnotations
-SAMGridAnnotations\Scripts\activate
+python -m venv SAMGridAnnotator
+SAMGridAnnotator\Scripts\activate
 ```
 
 ### ✅ Mac/Linux
 
 ```bash
-python3 -m venv SAMGridAnnotations
-source SAMGridAnnotations/bin/activate
+python3 -m venv SAMGridAnnotator
+source SAMGridAnnotator/bin/activate
 ```
 
 Now install packages:
@@ -145,9 +145,9 @@ weights/sam_vit_b.pth
 Your project should look like this:
 
 ```
-SAMGridAnnotations/
+SAMGridAnnotator/
 │
-├── SAMGridAnnotations.ipynb
+├── SAMGridAnnotator.ipynb
 ├── requirements.txt
 ├── README.md
 │
@@ -183,7 +183,7 @@ jupyter notebook
 Open:
 
 ```
-SAMGridAnnotations.ipynb
+SAMGridAnnotator.ipynb
 ```
 
 Click:
